@@ -40,8 +40,8 @@ Change at positions
 ### Hot reload
 
 ### Attributions
-Bee icon: Icon made by [Freepik](https://www.flaticon.com/de/autoren/freepik) from www.flaticon.com
-Table icon: Icon made by [Dinosoftlabs](https://www.flaticon.com/de/autoren/dinosoftlabs) from www.flaticon.com
-Hourglass icon: Icon made by [Prettycons](https://www.flaticon.com/de/autoren/prettycons) from www.flaticon.com
-Broom icon: Icon made by [Freepik](https://www.flaticon.com/de/autoren/freepik) from www.flaticon.com
-Homework icon: Icon made by [Freepik](https://www.flaticon.com/de/autoren/freepik) from www.flaticon.com
+* Bee icon: Icon made by [Freepik](https://www.flaticon.com/de/autoren/freepik) from www.flaticon.com
+* Table icon: Icon made by [Dinosoftlabs](https://www.flaticon.com/de/autoren/dinosoftlabs) from www.flaticon.com
+* Hourglass icon: Icon made by [Prettycons](https://www.flaticon.com/de/autoren/prettycons) from www.flaticon.com
+* Broom icon: Icon made by [Freepik](https://www.flaticon.com/de/autoren/freepik) from www.flaticon.com
+* Homework icon: Icon made by [Freepik](https://www.flaticon.com/de/autoren/freepik) from www.flaticon.com
