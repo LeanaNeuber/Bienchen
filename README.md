@@ -1,16 +1,47 @@
-# my_app
+# The Bienchen Application
 
-A new Flutter project.
+This is a PoC for working with Flutter and Dart for app development
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+To get started with this development, make sure you have installed [Flutter](https://flutter.dev/docs) and a proper IDE.
+This documentation should offer some insights on how to get started with the development.
 
-A few resources to get you started if this is your first Flutter project:
+### Adding libraries
+`pubspec.yaml`
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+### Adding Icons
+For android:
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Open android part of the application with Android Studio: File -> Open -> select folder `android`.
+Right click on the folder `res` : New -> Image Asset
+Add a foreground and background picture and click on finish.
+
+For iOS:
+Go to [appicon.co](https://appicon.co), upload the picture you want to use (you could e.g. take one of the generated ones for android).
+Select the platform(s) and let the generation start.
+After a successfull download, copy (replace) the `Assets.xcassets` folder into `ios/Runner`
+
+### Adding images to use within the app
+create folder, e.g. `images` in this cases
+Add the following lines of code to the flutter section within the `pubspec.yaml`:
+```yaml
+assets:
+    - images/
+```
+
+### Widgets
+What are widgets..
+
+### Changing the name of your application
+Change at positions
+`flutter clean`
+
+### Hot reload
+
+### Attributions
+Bee icon: Icon made by [Freepik](https://www.flaticon.com/de/autoren/freepik) from www.flaticon.com
+Table icon: Icon made by [Dinosoftlabs](https://www.flaticon.com/de/autoren/dinosoftlabs) from www.flaticon.com
+Hourglass icon: Icon made by [Prettycons](https://www.flaticon.com/de/autoren/prettycons) from www.flaticon.com
+Broom icon: Icon made by [Freepik](https://www.flaticon.com/de/autoren/freepik) from www.flaticon.com
+Homework icon: Icon made by [Freepik](https://www.flaticon.com/de/autoren/freepik) from www.flaticon.com
